@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitordp", "Visitordp\Visitordp.csproj", "{780B3C2E-93F9-46C9-A8D5-1DCBF721D43B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780B3C2E-93F9-46C9-A8D5-1DCBF721D43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780B3C2E-93F9-46C9-A8D5-1DCBF721D43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780B3C2E-93F9-46C9-A8D5-1DCBF721D43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780B3C2E-93F9-46C9-A8D5-1DCBF721D43B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F10DC829-62BB-45B6-B3B1-5E3211836416}
+	EndGlobalSection
+EndGlobal
